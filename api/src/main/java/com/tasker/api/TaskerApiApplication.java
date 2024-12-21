@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TaskerApiApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TaskerApiApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(TaskerApiApplication.class, args);
+    }
 
 }

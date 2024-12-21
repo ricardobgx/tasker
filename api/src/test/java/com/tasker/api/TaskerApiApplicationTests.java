@@ -8,8 +8,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 @AutoConfigureTestDatabase
 class TaskerApiApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
